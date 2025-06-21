@@ -29,8 +29,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #121212;
-    color: #e0e0e0;
     line-height: 1.6;
+    color: #e0e0e0;
 }
 /* --- Titulos, botões --- */
 .container {
@@ -97,8 +97,6 @@ body {
 .projetosGeral {
     padding-bottom: 5rem;
 }
-
-
 
 
 /* --- Sessão só dos projetos --- */
