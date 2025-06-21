@@ -1,0 +1,181 @@
+/* --- Primeira parte --- */
+.header {
+    background-color: rgba(18, 18, 18, 0.8);
+    position: sticky;
+    padding: 1rem 0;
+    width: 100%;
+    top: 0;
+
+}
+
+.nav {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.logoTexto {
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: e0e0e0;
+}
+
+
+
+
+
+/* --- Fonte e etc --- */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+}
+
+/* --- Titulos, botões --- */
+.container {
+    max-width: 1100px;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+.titulosDasSessões {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.botão {
+    transition: all 0.3s ease;
+    padding: 0.75rem 1.5rem;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+
+.botãoGeral {
+    border: 1px solid #86e0fc;
+    color: #86e0fc;
+}
+
+.botãoGeral:hover {
+    background-color: #86e0fc;
+    color: #121212;
+}
+
+
+
+
+/* --- Apresentação - Sobre mim --- */
+.geral {
+    align-items: center;
+    text-align: center;
+    min-height: 60vh;
+    display: flex;
+}
+
+.principal-conteudo {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.geral-tituloNome {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 3rem;
+    color: #86e0fc;
+}
+
+.geral-subtitulo {
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    color: #b0b0b0;
+}
+
+.geral-botões {
+    justify-content: center;
+    display: flex;
+    gap: 1rem;
+
+}
+
+
+
+
+/* --- Descrição sobre mim  --- */
+.projetosGeral {
+    padding-bottom: 5rem;
+}
+
+
+
+
+/* --- Sessão só dos projetos --- */
+.projetos {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    display: grid;
+    gap: 2rem;
+}
+
+.projetosCaixas {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    justify-content: space-between;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 2rem;
+    display: flex;
+}
+
+
+.projetosCaixas:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.projetoTitulo {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #86e0fc;
+}
+
+.projetoDescrição {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    flex-grow: 1;
+}
+
+
+
+
+/* --- Footer --- */
+.footer {
+    border-top: 1px solid #333;
+    background-color: #1e1e1e;
+    text-align: center;
+    margin-top: 3rem;
+    padding: 2rem 0;
+}
+
+@media (max-width: 768px) {
+    .geral-tituloNome {
+        font-size: 2.5rem;
+    }
+    
+    .nav {
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
