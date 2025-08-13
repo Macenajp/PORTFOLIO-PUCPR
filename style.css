@@ -60,6 +60,7 @@ body {
 
 .botãoGeral:hover {
     background-color: #86e0fc;
+    transform: scale(1.1);
     color: #121212;
 }
 
