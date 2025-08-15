@@ -13,7 +13,24 @@
 }
 .logoTexto {
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1.5rem;import tkinter as tk
+
+# Criar a janela principal
+janela = tk.Tk()
+janela.title("Minha Primeira Tela")
+janela.geometry("400x300")  # Largura x Altura
+
+# Adicionar um rótulo (texto)
+rotulo = tk.Label(janela, text="Bem-vindo à minha aplicação!", font=("Arial", 14))
+rotulo.pack(pady=20)  # Adiciona espaço ao redor do rótulo
+
+# Adicionar um botão
+botao = tk.Button(janela, text="Clique Aqui", command=lambda: print("Botão clicado!"))
+botao.pack(pady=10)
+
+# Iniciar o loop da interface gráfica
+janela.mainloop()
+
     font-weight: 700;
     color: e0e0e0;
 }
@@ -34,12 +51,13 @@ body {
 }
 /* --- Titulos, botões --- */
 .home{
-    justify-content: center;
+    justify-content: left;
     text-decoration: none;
     font-size: 1.5rem;
     font-weight: 700;
     text-align: left;
     color: white;
+    display: flex;
 
 }
 
