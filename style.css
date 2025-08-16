@@ -10,7 +10,7 @@
 .logoTexto {
     justify-content: center;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 700;
     color: white;
     display: flex;
@@ -95,6 +95,15 @@ body {
 
 /* --- Apresentação - Sobre mim --- */
 .geral {
+    margin-top: -20px;
+    align-items: center;
+    text-align: center;
+    min-height: 60vh;
+    display: flex;
+}
+
+.geral2 {
+    margin-top: -150px;
     align-items: center;
     text-align: center;
     min-height: 60vh;
@@ -110,6 +119,13 @@ body {
     margin-bottom: 1rem;
     font-weight: 700;
     font-size: 3rem;
+    color: #86e0fc;
+}
+
+.geral-tituloNome2{
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 2rem;
     color: #86e0fc;
 }
 
@@ -173,7 +189,7 @@ body {
     border-top: 1px solid #333;
     background-color: #1e1e1e;
     text-align: center;
-    margin-top: 3rem;
+    margin-top: -20px;
     padding: 2rem 0;
 }
 
