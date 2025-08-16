@@ -25,14 +25,7 @@ O site serve como uma vitrine centralizada do meu progresso e aprendizado, come�
 
 ## 🎯 Objetivos do Projeto
 
-* **Aprendizado Prático:** Aplicar e consolidar os conhecimentos adquiridos em aula sobre desenvolvimento web front-end.
-* **Documentação:** Manter um registro organizado e acessível da minha evolução como desenvolvedor.
-* **Visibilidade Profissional:** Criar uma plataforma para apresentar meu trabalho a recrutadores, professores e colegas da área.
+* **Aprendizado Prático:** Aplicar e consolidar os conhecimentos adquiridos em aula sobre desenvolvimento web.
+* **Visibilidade Profissional:** Criar uma plataforma para apresentar meu trabalho e estudo para recrutadores, professores e colegas da área.
 
 <br>
-
-## 📬 Contato
-
-**João Pedro Macena Correa**
-
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL_AQUI/) * [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Macenajp)
