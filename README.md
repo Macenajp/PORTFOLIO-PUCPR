@@ -12,8 +12,8 @@ O site serve como uma vitrine do meu progresso e aprendizado, começando com os 
 ## ✨ Principais Seções
 
 * **Sobre Mim:** Uma breve introdução sobre minha trajetória, meus interesses na área de tecnologia e objetivos de carreira.
-* **Projetos:** Uma galeria com os principais trabalhos acadêmicos, cada um com sua descrição, tecnologias utilizadas e link para o código-fonte ou demonstração.
-* **Links de Contato:** Acesso rápido ao meu GitHub, LinkedIn e E-mail para contato profissional.
+* **Projetos:** Uma galeria com os principais trabalhos acadêmicos (até o momento, apenas do primeiro do período), cada um com sua descrição, tecnologias utilizadas e link para o código-fonte.
+* **Links de Contato:** Acesso rápido ao meu GitHub, LinkedIn e E-mail.
 
 <br>
 
