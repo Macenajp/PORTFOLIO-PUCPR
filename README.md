@@ -1,4 +1,4 @@
-# Portfólio Acadêmico | João Pedro Macena
+# Portfólio Acadêmico | João Pedro M. C.
 <br>
 
 ## 🚀 Sobre:
