@@ -1,7 +1,4 @@
 # Portfólio Acadêmico | João Pedro Macena
-
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-brightgreen)
-
 <br>
 
 ## 🚀 Sobre o Projeto
