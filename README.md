@@ -15,27 +15,11 @@ O site serve como uma vitrine centralizada do meu progresso e aprendizado, come�
 
 <br>
 
-## 📸 Preview
-
-![Preview do Portfólio](https://user-images.githubusercontent.com/98739199/208249871-337d6e8f-747d-411a-8740-42f53408a2fc.png)
-<br>
-
 ## ✨ Principais Seções
 
 * **Sobre Mim:** Uma breve introdução sobre minha trajetória, meus interesses na área de tecnologia e objetivos de carreira.
 * **Projetos:** Uma galeria com os principais trabalhos acadêmicos, cada um com sua descrição, tecnologias utilizadas e link para o código-fonte ou demonstração.
 * **Links de Contato:** Acesso rápido ao meu GitHub, LinkedIn e E-mail para contato profissional.
-
-<br>
-
-## 🛠️ Tecnologias Utilizadas
-
-O site foi construído utilizando as seguintes tecnologias:
-
-* **HTML5:** Para a estruturação e semântica do conteúdo.
-* **CSS3:** Para a estilização, layout e design visual.
-* **JavaScript:** Para funcionalidades interativas e manipulação do DOM.
-* **GitHub Pages:** Para a hospedagem e deploy contínuo do site.
 
 <br>
 
