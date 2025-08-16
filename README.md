@@ -9,12 +9,6 @@ O site serve como uma vitrine do meu progresso e aprendizado, começando com os 
 
 <br>
 
-## 🔗 Link para o Site
-
-### **[➡️ Acesse o portfólio aqui!](https://macenajp.github.io/PORTFOLIO-PUCPR/)**
-
-<br>
-
 ## ✨ Principais Seções
 
 * **Sobre Mim:** Uma breve introdução sobre minha trajetória, meus interesses na área de tecnologia e objetivos de carreira.
