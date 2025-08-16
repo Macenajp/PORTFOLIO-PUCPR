@@ -73,7 +73,7 @@ body {
     display: flex;
 }
 
-.botão {
+.botaoGeral {
     transition: all 0.3s ease;
     padding: 0.75rem 1.5rem;
     display: inline-block;
@@ -83,12 +83,12 @@ body {
     font-weight: 500;
 }
 
-.botãoGeral {
+.botaoGeral {
     border: 1px solid #86e0fc;
     color: #86e0fc;
 }
 
-.botãoGeral:hover {
+.botaoGeral:hover {
     background-color: #86e0fc;
     transform: scale(1.1);
     color: #121212;
@@ -137,7 +137,7 @@ body {
     color: #b0b0b0;
 }
 
-.geral-botões {
+.geral-botoes {
     justify-content: center;
     display: flex;
     gap: 1rem;
