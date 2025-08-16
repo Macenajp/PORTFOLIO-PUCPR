@@ -3,9 +3,9 @@
 
 ## 🚀 Sobre o Projeto
 
-Este repositório contém o código-fonte do meu portfólio pessoal. Ele foi criado com o objetivo de documentar e apresentar os projetos que desenvolvi durante minha jornada no curso de Ciência da Computação na PUCPR.
+Este repositório contém os códigos do meu portfólio pessoal. Ele foi criado com o objetivo de documentar e apresentar os projetos que desenvolvi durante meus estudos no curso de Ciência da Computação na PUCPR.
 
-O site serve como uma vitrine centralizada do meu progresso e aprendizado, começando com os trabalhos do primeiro período e sendo constantemente atualizado à medida que novas habilidades e projetos são desenvolvidos.
+O site serve como uma vitrine do meu progresso e aprendizado, começando com os trabalhos do primeiro período e sendo constantemente atualizado à medida que novas habilidades e projetos são desenvolvidos.
 
 <br>
 
