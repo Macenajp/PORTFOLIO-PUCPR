@@ -107,7 +107,7 @@ body {
 .geral2 {
     align-items: center;
     text-align: center;
-    min-height: 60vh;
+    min-height: 30vh;
     display: flex;
 }
 
