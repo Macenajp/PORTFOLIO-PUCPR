@@ -100,7 +100,7 @@ body {
 .geral {
     align-items: center;
     text-align: center;
-    margin-top: -20px;
+    margin-top: auto;
     min-height: 60vh;
     display: flex;
 }
