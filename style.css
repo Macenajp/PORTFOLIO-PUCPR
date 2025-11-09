@@ -101,14 +101,22 @@ body {
     align-items: center;
     text-align: center;
     margin-top: auto;
-    min-height: 60vh;
+    min-height: 35vh;
     display: flex;
 }
 
 .geral2 {
     align-items: center;
     text-align: center;
-    min-height: 60vh;
+    min-height: 40vh;
+    margin-top: -50px;
+    display: flex;
+}
+
+.geral3 {
+    align-items: center;
+    text-align: center;
+    min-height:55vh;
     margin-top: -20px;
     display: flex;
 }
@@ -240,3 +248,40 @@ body {
     }
 }
 
+
+#prompt-input {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: white; 
+    padding: 1rem;
+    width: 100%;
+}
+
+#resposta-container {
+    text-align: left;
+    width: 100%;
+}
+
+#resposta-ollama {
+    font-family: 'Poppins', sans-serif;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    white-space: pre-wrap; 
+    word-wrap: break-word;
+    border-radius: 5px;
+    min-height: 100px;
+    color: #b4b3b3; 
+    padding: 1.5rem;
+}
+
+.geral-botoesPrompt {
+    justify-content: center;
+    margin-top: 25px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 1rem;
+}
