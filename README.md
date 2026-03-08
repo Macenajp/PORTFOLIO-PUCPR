@@ -1,15 +1,14 @@
 # Portfólio Acadêmico | João Pedro M. C.
 <br>
 
-## 🚀 Sobre:
+## Sobre:
 
-Este repositório contém os códigos do meu portfólio pessoal. Ele foi criado com o objetivo de documentar e apresentar os projetos que desenvolvi durante meus estudos no curso de Ciência da Computação na PUCPR.
+Este repositório contém os códigos do meu portfólio pessoal. Ele foi criado com o objetivo de apresentar os projetos que desenvolvi durante meus estudos no curso de Ciência da Computação na PUCPR.
 
-O site serve como uma vitrine do meu progresso e aprendizado, começando com os trabalhos do primeiro período e sendo constantemente atualizado à medida que novas habilidades e projetos são desenvolvidos.
 
 <br>
 
-## ✨ Principais Seções:
+## Seções:
 
 * **Sobre Mim:** Uma breve introdução sobre minha trajetória, meus interesses na área de tecnologia e objetivos de carreira.
 * **Projetos:** Uma galeria com os principais trabalhos acadêmicos (até o momento, apenas do primeiro do período), cada um com sua descrição, tecnologias utilizadas e link para o código-fonte.
@@ -17,9 +16,11 @@ O site serve como uma vitrine do meu progresso e aprendizado, começando com os 
 
 <br>
 
-## 🎯 Objetivos:
+<!--
+## Objetivos:
 
 * **Aprendizado Prático:** Aplicar e consolidar os conhecimentos adquiridos em aula sobre desenvolvimento web.
 * **Visibilidade Profissional:** Criar uma plataforma para apresentar meu trabalho e estudo para recrutadores, professores e colegas da área.
 
 <br>
+-->
