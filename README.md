@@ -1,4 +1,4 @@
-# Portfólio Acadêmico | João Pedro M. C.
+# Portfólio Acadêmico | João Pedro M. Correa
 <br>
 
 ## Sobre:
